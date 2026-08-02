@@ -62,6 +62,6 @@ The dataset contains the following features:
 
 ## 👨‍💻 Author
 
-**Yash Pandey**  
-M.Tech (Business Analytics), IIT Kanpur  
+**Rituraj Uttam**  
+M.Tech, IIT Kanpur  
 Python | Machine Learning | Data Science
